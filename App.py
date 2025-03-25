@@ -1,2 +1,4 @@
 python
-print("bem vindo ao sistema!")
+print("Bem vindo ao sistema!")
+print("Nova funcionalidade adicionada!")
+
